@@ -224,7 +224,7 @@ body{
 @keyframes wmove{
 	0%{}
 	10%{ 
-		-webkit-transform: translate3D(-25%,0,0) rotate3D(0,0,1,-5deg);
+		 -webkit-transform: translate3D(-25%,0,0) rotate3D(0,0,1,-5deg);
 		 	-moz-transform: translate3D(-25%,0,0) rotate3D(0,0,1,-5deg);
 			 -ms-transform: translate3D(-25%,0,0) rotate3D(0,0,1,-5deg);
 		 	  -o-transform: translate3D(-25%,0,0) rotate3D(0,0,1,-5deg);
